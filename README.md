@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! 👋 I'm John Doe
 
-<!--
-**codewith-hardik/codewith-hardik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🎓 Computer Science Student | Java & Web Developer
+- 🌱 Learning AI and Open Source
+- 🛠️ Exploring Full-Stack Development
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** Java, C, JavaScript, HTML, CSS
+- **Frameworks:** Node.js, Express.js  
+- **Databases:** MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical)
+
+## 📫 Let's Connect!
+- 🌐 [My Portfolio](https://johndoe.com)
+- 💼 [LinkedIn](https://linkedin.com/in/johndoe)
