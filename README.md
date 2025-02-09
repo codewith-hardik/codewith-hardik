@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Hardik.  
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Java with DSA Projects**  
 - 🌱 I’m learning **C Programming and Full-Stack Development**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **Java, DSA, and Web Development**  
-- 📫 How to reach me: **[Your Email](mailto:youremail@example.com)**  
+- 📫 How to reach me: **[My Email](chavdahardik1729@gmail.com)**  
 - ⚡ Fun fact: **I love solving coding challenges and exploring new tech.**
 
 ---
@@ -39,7 +39,7 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chavdahardik)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)  
 
@@ -47,12 +47,12 @@
 
 ## 🏆 Achievements  
 - 🎖 Participated in IBM SkillBuild session on **Getting Started with Artificial Intelligence**  
-- 🌟 Open Source Contributor in **Google Summer of Code 2025 (GSoC)** *(if applicable in the future 😉)*  
+
 
 ---
 
 ## 📌 Fun Projects  
-- **Java with DSA Notes:** Writing a detailed book covering **Arrays, Strings, Sorting, and Searching Algorithms**  
+- **Java with DSA Notes:** Writing a detailed book.
 - **Portfolio Website:** A personal portfolio showcasing my work and projects using **HTML, CSS, and JavaScript**  
 
 ---
@@ -63,10 +63,9 @@
 ---
 
 ### Note:  
-- Replace **YourUsername** with your GitHub username everywhere.  
-- Replace `[Your Name]` and `[Your Email]` with your actual name and email.  
+- Replace **Hardik** with your GitHub username everywhere.  
+- Replace `Hardik` and `chavdahardik1729@gmail.com` with your actual name and email.  
 - Update the links for LinkedIn, Portfolio, and GitHub as per your details.
 
 ---
 
-### Do you want me to generate this file as a downloadable `.md` file? Let me know! 😊
