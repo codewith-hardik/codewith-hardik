@@ -62,10 +62,4 @@
 
 ---
 
-### Note:  
-- Replace **Hardik** with your GitHub username everywhere.  
-- Replace `Hardik` and `chavdahardik1729@gmail.com` with your actual name and email.  
-- Update the links for LinkedIn, Portfolio, and GitHub as per your details.
-
----
 
