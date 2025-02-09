@@ -28,13 +28,13 @@
 
 ## 📈 GitHub Stats  
 ### ⚡ GitHub Profile Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewith-hardik&show_icons=true&theme=radical)  
 
 ### 📊 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-hardik&layout=compact&theme=radical)  
 
 ### 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewith-hardik&theme=radical)
 
 ---
 
@@ -58,7 +58,7 @@
 ---
 
 ## 📊 Visitor Count  
-![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=codewith-hardik&style=flat-square&color=blue)
 
 ---
 
