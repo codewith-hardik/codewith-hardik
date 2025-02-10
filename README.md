@@ -61,5 +61,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=codewith-hardik&style=flat-square&color=blue)
 
 ---
+### 🐍 Snake Game Contribution Graph
+![Snake animation](https://raw.githubusercontent.com/codewith-hardik/codewith-hardik/output/snake.svg)
 
+---
 
