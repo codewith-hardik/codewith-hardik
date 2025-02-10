@@ -64,5 +64,4 @@
 ### 🐍 Snake Game Contribution Graph
 ![Snake animation](https://raw.githubusercontent.com/codewith-hardik/codewith-hardik/output/snake.svg)
 
----
 
