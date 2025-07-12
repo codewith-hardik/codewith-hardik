@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Java with DSA Projects**  
-- 🌱 I’m learning **C Programming and Full-Stack Development**  
+- 🌱 I’m learning **Python Programming and Full-Stack Development**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **Java, DSA, and Web Development**  
 - 📫 How to reach me: **[My Email](chavdahardik1729@gmail.com)**  
